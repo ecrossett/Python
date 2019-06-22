@@ -3,7 +3,7 @@ import math
 import numpy as np
 import pandas as pd
 
-df = pd.read_excel (r'/Users/ed/Documents/Python/Math_Foundations/PCA.xlsx')
+df = pd.read_excel (/PCA.xlsx')
 
 
 XXT = df.dot(df.T)
