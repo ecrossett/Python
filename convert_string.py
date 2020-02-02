@@ -3,7 +3,7 @@ def convertible_string(string_input):
 to a number.  Uses try/except clause to handle exception.''' 
     try:
         # convert input string to floating point number
-        num = float(string_input)
+        num1 = float(string_input)
         
         # if successful we will print this message:
         print('the string: "%s", was successfully converted to the number %.2f' % (string_input, num))
